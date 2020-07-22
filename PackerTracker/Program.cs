@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ProjectMvcName
+namespace PackerTracker
 {
   public class Program
   {

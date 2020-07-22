@@ -9,13 +9,13 @@ This application will create a list of supplies needed for camping.
 
 ## Specifications
 
-1. **Behavior:** The user will be able to input a word in the console and the return will be a numerical value associated with each letter in that word.
-    * **Input Example:** A
-    * **Output Example:** 1
+1. **Behavior:** The user will be able to click a button to create a new trip list
+    * **Input Example:** Click Here to create new Trip List
+    * **Output Example:** A new page will load with input fields to add items to Trip List
 
-2. **Behavior:** The program will add the score for each letter to the total score and return it to the user.
-    * **Input Example:** "hello"
-    * **Output Example:** 8
+2. **Behavior:** 
+    * **Input Example:** 
+    * **Output Example:**
 
 ## Setup and Installation
 
