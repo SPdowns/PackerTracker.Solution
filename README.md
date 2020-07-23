@@ -13,6 +13,8 @@ This application will create a list of supplies needed for camping.
     * **Input Example:** Click Here to create new Trip List
     * **Output Example:** A new page will load with input fields to add items to Trip List
 
+Water Tent SleepingBag
+
 2. **Behavior:** 
     * **Input Example:** 
     * **Output Example:**
